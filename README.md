@@ -1,6 +1,6 @@
 # Python-Beginner-Tutorials
 
-This Repository is for Python Beginner, if you're new to Javascript or Coding in general, you learn the basics with the practical approach of building small projects. 
+This Repository is for Python Beginner, if you're new to Python or Coding in general, you learn the basics with the practical approach of building small projects. 
 
 # The Python Beginner Projects List:
 
